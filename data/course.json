@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Periodic Literature"
+    ]
+  ],
+  "legacy_uid": "4f55261e-c005-5585-0b69-54814d10671c",
+  "instructors": {
+    "content": [
+      "fc284dac-4d7e-2d11-87a4-a1b45827e952"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4021734f-38df-1062-d449-5d2c0b132c8c",
+    "website": "21l-460-medieval-literature-love-sex-and-marriage-spring-2015"
+  },
+  "course_title": "Medieval Literature: Love, Sex, and Marriage",
+  "course_description": "It is easy to think of love as a \"universal language\" - but do ideas about love translate easily across history, culture, and identity? In this course, we will encounter some surprising, even disturbing ideas about love and sex from medieval writers and characters: For instance, that married people can never be in love, that the most satisfying romantic love incorporates pain and violence, and that intense erotic pleasure can be found in celibate service to God. Through Arthurian romances, Chaucer's _Canterbury Tales_, love letters, mystical visions, and more, we will explore medieval attitudes toward marriage, sexuality, and gender roles. What can these perspectives teach us about the uniqueness of the Middle Ages\u2014and how do medieval ideas about love continue to influence the beliefs and fantasies of our own culture?\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.460",
+  "course_image_thumbnail": {
+    "content": "be70e892-c6b6-bffb-bc8a-6cde3562e68a",
+    "website": "21l-460-medieval-literature-love-sex-and-marriage-spring-2015"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments",
+    "Activity Assignments"
+  ],
+  "site_uid": "7ac34b05-7d76-4209-9a30-90e549550c21",
+  "site_short_id": "21l.460-spring-2015",
+  "title": "Course Metadata"
+}
